@@ -49,6 +49,8 @@ On a phone, the bar along the bottom gets you anywhere in one tap.
 | **Places** | The list of every place on the map |
 | **More** | Flights, Yi Peng, getting around, the route builder, run clubs, Pai runs, and **Save the itinerary as a PDF** |
 
+On a phone the top of the page keeps one button, **Open this whole list in your Google Maps**. Everything else is in the bottom bar.
+
 <img src="docs/09-more-menu.png" width="260" alt="The More menu">
 
 Each section folds up on a phone: tap its heading to open or close it. Each day in the day plans folds too, and today's day opens on its own.
@@ -129,6 +131,28 @@ The route builder (under **More**) has its own GPX button, which also follows re
 ## 9. Save the whole itinerary as a PDF
 
 **More → Save the itinerary as a PDF**. Choose **By day** or **By hotel**, then tap **Save as PDF**. On a phone, pick **Save as PDF** (or **Print → Save to Files**) in the menu that opens.
+
+---
+
+## 10. Build your own route
+
+Tap any place on the map or in the list, then **＋ Add to my route**. Do that for each stop. The route collects under the place panel, and an orange **My route** button follows you down the page.
+
+- **↑ ↓** reorder the stops; **✕** takes one out.
+- **Start from** a hotel, and tick **and finish back there** for a loop.
+- **Walk it in Google Maps** opens every stop, in order, with walking directions. Google takes eleven stops a link, so a long route comes in parts.
+- **Route file for Strava or a watch** saves a GPX file along real streets and paths (import it the same way as in step 8).
+- **Put the stops in the shortest order** keeps the start and reshuffles the rest.
+- **Share this route** sends a link that opens the same stops on the other phone.
+- **Add these stops to that day** copies them into a day plan.
+
+Places you add yourself with **+ Add a place** work too. A shared route only carries places that are on both phones.
+
+---
+
+## 11. Areas and time of day
+
+Under the list buttons, the **Areas** row shows one neighbourhood at a time: Chinatown and Song Wat, Old Town, Sukhumvit, Chiang Mai Old City and so on. Tap it again to see everything. The **When** buttons pick out places whose notes mention mornings, evenings, or a booking or queue. They read the notes, so they are only as good as the notes.
 
 ---
 
