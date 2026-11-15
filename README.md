@@ -150,9 +150,18 @@ Places you add yourself with **+ Add a place** work too. A shared route only car
 
 ---
 
-## 11. Areas and time of day
+## 11. Areas, tags and descriptions
 
-Under the list buttons, the **Areas** row shows one neighbourhood at a time: Chinatown and Song Wat, Old Town, Sukhumvit, Chiang Mai Old City and so on. Tap it again to see everything. The **When** buttons pick out places whose notes mention mornings, evenings, or a booking or queue. They read the notes, so they are only as good as the notes.
+Every place has a description: what it is, what to order or see, and when it's open where we could confirm that. Where we couldn't confirm something, the description says so.
+
+Under the list buttons there are two more rows:
+
+- **Areas** shows one neighbourhood at a time: Chinatown and Song Wat, Old Town, Sukhumvit, Chiang Mai Old City and so on. Tap it again to see everything.
+- **Tags** narrow things down: Breakfast, Daytime only, After dark, Late night, Live music, Michelin pick, Book or queue, Free, A view, Vegan-friendly, Indoors, Shopping, Weekends only, and Cover shoulders & knees. Tap two and you get places that match both, such as Live music and Late night.
+
+The tags are read from each place's description, so they are only as good as the description. Each place shows its tags when you open it.
+
+Shopping now has three groups: **Vintage shopping**, **Shops & boutiques** and **Crafts & souvenirs**.
 
 ---
 
