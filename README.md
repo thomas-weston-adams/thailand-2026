@@ -55,6 +55,8 @@ On a phone the top of the page keeps one button, **Open this whole list in your 
 
 **Flights:** the top of the app always shows the next flight: flight number, times, airports and the confirmation codes. Tap a code to copy it, **Flight status** to look the flight up, or **All flights** for every leg.
 
+**A flights page you can send:** https://thomas-weston-adams.github.io/thailand-2026/flights.html shows only the flights and where we're staying each night. It has its own password, separate from the app's, and leaves the booking codes off. **Send the flights page** in the next-flight card shares the link. Send the password separately.
+
 Each section folds up on a phone: tap its heading to open or close it. Each day in the day plans folds too, and today's day opens on its own.
 
 ---
@@ -186,4 +188,5 @@ Do the sign-in in Safari or Chrome, not from the home-screen icon. A home-screen
 - **Updating the app:** tell Claude what to change. The new version goes to the same link, and phones pick it up the next time the app is opened with a signal. If it looks old, close the app fully and open it again.
 - **Changing the password:** ask Claude to re-lock the app with a new one, then send the new password to everyone. Old "remembered" phones will be asked for it once.
 - **Removing someone's access:** change the password.
+- **The flights page:** `flights.html` is locked with a different password from the app. Changing one doesn't change the other. If flights or hotels change, ask Claude to update both the app and this page.
 - **What's in this repo:** `index.html` is the whole app, locked. Without the password, it's scrambled text. `map/` holds the map engine, `sw.js` keeps the app working offline, `docs/` holds the pictures above, and the icon files are the home-screen icon.
