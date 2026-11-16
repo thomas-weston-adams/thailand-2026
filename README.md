@@ -53,6 +53,8 @@ On a phone the top of the page keeps one button, **Open this whole list in your 
 
 <img src="docs/09-more-menu.png" width="260" alt="The More menu">
 
+**Flights:** the top of the app always shows the next flight: flight number, times, airports and the confirmation codes. Tap a code to copy it, **Flight status** to look the flight up, or **All flights** for every leg.
+
 Each section folds up on a phone: tap its heading to open or close it. Each day in the day plans folds too, and today's day opens on its own.
 
 ---
