@@ -53,7 +53,9 @@ On a phone the top of the page keeps one button, **Open this whole list in your 
 
 <img src="docs/09-more-menu.png" width="260" alt="The More menu">
 
-**Flights:** the top of the app always shows the next flight: flight number, times, airports and the confirmation codes. Tap a code to copy it, **Flight status** to look the flight up, or **All flights** for every leg.
+**Flights:** the top of the app shows the next flight on one line. Tap it to open the times, airports and confirmation codes. Tap a code to copy it, **Flight status** to look the flight up, or **All flights** for every leg. On a flying day it opens by itself.
+
+**On a phone, during the trip,** the app opens on the city you're in, with tonight's hotel first in the hotel strip. Tap **All** or another city to look ahead. The list, area, tag and category buttons sit behind one **Filters** button; it shows how many are on, and **Clear** turns them all off.
 
 **A flights page you can send:** https://thomas-weston-adams.github.io/thailand-2026/flights.html shows only the flights and where we're staying each night. It has its own password, separate from the app's, and leaves the booking codes off. **Send the flights page** in the next-flight card shares a one-tap link that opens the page with no password to type. Anyone who has that link can open the page. The typed password still works on the plain link, and it forgives capitals, spaces and stray dashes.
 
