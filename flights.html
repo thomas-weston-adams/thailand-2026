@@ -203,6 +203,7 @@
                                 type="password"
                                 name="password"
                                 placeholder="Password"
+                                autocapitalize="none" autocorrect="off" autocomplete="off" spellcheck="false"
                                 autofocus
                             />
 
@@ -823,7 +824,7 @@ exports.init = init;
 
   return exports;
 })());
-            const templateError = "Bad password!",
+            const templateError = "That password didn't open it. It is three words and a number joined by hyphens, like word-word-word-12. Ask Tommy to send it again, or to send the one-tap link.",
                 templateToggleAltShow = "Show password",
                 templateToggleAltHide = "Hide password",
                 isRememberEnabled = true,
@@ -885,12 +886,16 @@ exports.init = init;
             document.getElementById("staticrypt-form").addEventListener("submit", async function (e) {
                 e.preventDefault();
 
-                const password = document.getElementById("staticrypt-password").value,
+                /* forgiving: stray spaces, capitals and long dashes from a phone keyboard don't count against you */
+                const btn = document.querySelector(".staticrypt-decrypt-button"), btnText = btn.value;
+                btn.value = "Checking…"; btn.disabled = true;
+                const password = document.getElementById("staticrypt-password").value.trim().toLowerCase().replace(/[\s\u2010-\u2015\u2212_]+/g, "-"),
                     isRememberChecked = document.getElementById("staticrypt-remember").checked;
 
                 const { isSuccessful } = await staticrypt.handleDecryptionOfPage(password, isRememberChecked);
 
                 if (!isSuccessful) {
+                    btn.value = btnText; btn.disabled = false;
                     alert(templateError);
                 }
             });

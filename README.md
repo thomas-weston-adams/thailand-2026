@@ -55,7 +55,7 @@ On a phone the top of the page keeps one button, **Open this whole list in your 
 
 **Flights:** the top of the app always shows the next flight: flight number, times, airports and the confirmation codes. Tap a code to copy it, **Flight status** to look the flight up, or **All flights** for every leg.
 
-**A flights page you can send:** https://thomas-weston-adams.github.io/thailand-2026/flights.html shows only the flights and where we're staying each night. It has its own password, separate from the app's, and leaves the booking codes off. **Send the flights page** in the next-flight card shares the link. Send the password separately.
+**A flights page you can send:** https://thomas-weston-adams.github.io/thailand-2026/flights.html shows only the flights and where we're staying each night. It has its own password, separate from the app's, and leaves the booking codes off. **Send the flights page** in the next-flight card shares a one-tap link that opens the page with no password to type. Anyone who has that link can open the page. The typed password still works on the plain link, and it forgives capitals, spaces and stray dashes.
 
 Each section folds up on a phone: tap its heading to open or close it. Each day in the day plans folds too, and today's day opens on its own.
 
