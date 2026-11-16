@@ -173,7 +173,7 @@ Shopping now has three groups: **Vintage shopping**, **Shops & boutiques** and *
 2. Paste the **Client ID** and **Client secret** from strava.com/settings/api. They are saved on that phone only. On that same Strava page, **Authorization Callback Domain** must be `thomas-weston-adams.github.io`.
 3. Tap **Save and sign in with Strava**, approve, and you land back in the app.
 
-Then the card shows your saved Strava routes (dashed orange lines on the map), the runs from the last 8 days, and whether today's run is logged. It only reads. To put a new route into Strava, use the route file from step 8 or step 10. **Disconnect** wipes everything Strava-related from the phone.
+Then the card shows your saved Strava routes for this trip (dashed orange lines on the map) and the runs you log in Thailand and Manila. Routes and runs from anywhere else are never shown or saved in the app. It only reads. To put a new route into Strava, use the route file from step 8 or step 10. **Disconnect** wipes everything Strava-related from the phone.
 
 Do the sign-in in Safari or Chrome, not from the home-screen icon. A home-screen app keeps its own storage, so connect there separately if you want it there too.
 
