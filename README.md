@@ -136,7 +136,9 @@ The route builder (under **More**) has its own GPX button, which also follows re
 
 ## 9. Save the whole itinerary as a PDF
 
-**More → Save the itinerary as a PDF**. Choose **By day** or **By hotel**, then tap **Save as PDF**. On a phone, pick **Save as PDF** (or **Print → Save to Files**) in the menu that opens.
+**Itinerary PDF** at the top of the app, or **More → Save the itinerary as a PDF**. Choose **By day** or **By hotel**, then tap **Save as PDF**. The PDF holds the hotels (including the Manila overnight), every flight with its confirmation codes, each day's plan with every stop's description, your own route if you've built one, and the reference sections: morning runs, run clubs, Pai runs, Yi Peng, getting around and after dark. It's about 28 pages.
+
+**Flights & hotels ↗** sits beside it at the top and opens the separate flights page. On a phone, pick **Save as PDF** (or **Print → Save to Files**) in the menu that opens.
 
 ---
 
