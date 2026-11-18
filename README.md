@@ -72,6 +72,10 @@ Each section folds up on a phone: tap its heading to open or close it. Each day 
 
 ---
 
+**Search** looks through every saved place in every city, whatever city or filters are on, and forgives spelling: "benjakati" finds Benjakitti, "lumpini" finds Lumphini, "khaosoi" finds Khao Soi. Tap a result to jump to it on the map. **Clear** puts your filters back.
+
+---
+
 ## 5. Change a day's plan
 
 Every day has three buttons:
